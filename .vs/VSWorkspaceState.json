@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Riode",
+    "\\Riode\\Areas",
+    "\\Riode\\Areas\\Admin",
+    "\\Riode\\Areas\\Admin\\Views",
+    "\\Riode\\Areas\\Admin\\Views\\Users",
+    "\\Riode\\Views",
+    "\\Riode\\Views\\Shared",
+    "\\Riode\\Views\\Shared\\Components",
+    "\\Riode\\Views\\Shared\\Components\\Product",
+    "\\Riode\\Views\\Shop"
+  ],
+  "SelectedNode": "\\Riode\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
